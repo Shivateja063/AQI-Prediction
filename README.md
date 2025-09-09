@@ -1,11 +1,6 @@
 
 # 🌫️ Air Quality Index (AQI) Prediction Using Machine Learning
 
-=======
-## Project Overview 🌍
->>>>>>> 18f46edeac728917554841db93a6a1438bc3e753
-
-
 ## 🚀 Project Overview
 
 Air pollution is a major health hazard in urban areas like **Delhi, Bangalore, Kolkata, and Hyderabad**. The **Air Quality Index (AQI)** quantifies air pollution levels on a scale from **0 to 500**, where higher values indicate greater risk.  
