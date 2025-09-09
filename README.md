@@ -1,6 +1,9 @@
 
 # 🌫️ Air Quality Index (AQI) Prediction Using Machine Learning
 
+=======
+## Project Overview 🌍
+>>>>>>> 18f46edeac728917554841db93a6a1438bc3e753
 
 
 ## 🚀 Project Overview
