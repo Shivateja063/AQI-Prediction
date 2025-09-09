@@ -1,23 +1,87 @@
-## Air Quality Index (AQI) Prediction Using Machine Learning
 
-![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributions%20Welcome-brightgreen)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green)
+# 🌫️ Air Quality Index (AQI) Prediction Using Machine Learning
 
-## Project Overview 🌍
 
-Delhi’s severe air pollution, particularly in winter, necessitates accurate Air Quality Index (AQI) predictions. AQI ranges from 0 to 500, with higher values indicating greater health risks. This project uses machine learning to predict AQI levels, offering timely alerts and preventative actions.
 
-### Key Features:
+## 🚀 Project Overview
 
-- **Data Processing**: Cleaning and normalizing AQI datasets from major Indian cities such as Delhi, Bangalore, Kolkata, and Hyderabad.
-- **Predictive Modeling**: Training machine learning models (Random Forest, Gradient Boosting, etc.) to forecast AQI levels.
-- **Imbalance Handling**: Using SMOTE to address class imbalances in AQI_Bucket values.
-- **Evaluation**: Evaluating models using accuracy, precision, recall, and confusion matrices.
+Air pollution is a major health hazard in urban areas like **Delhi, Bangalore, Kolkata, and Hyderabad**. The **Air Quality Index (AQI)** quantifies air pollution levels on a scale from **0 to 500**, where higher values indicate greater risk.  
 
-The project aims to provide accurate AQI predictions to help authorities and communities take timely action to combat air pollution.
+This project uses **Machine Learning** to **predict AQI levels**, enabling timely interventions for public health and environmental monitoring.
 
 ---
+
+## 🌟 Features
+
+- **📊 Data Preprocessing**  
+  - Cleaning and normalizing AQI datasets from multiple Indian cities.  
+  - Handling missing values and preparing data for model training.
+
+- **🤖 Predictive Modeling**  
+  - Models used: **Random Forest**, **Gradient Boosting**, and more.  
+  - Forecasting AQI levels and classifying them into health categories.
+
+- **⚖️ Imbalance Handling**  
+  - Implementing **SMOTE (Synthetic Minority Oversampling Technique)** to address class imbalance.
+
+- **📈 Model Evaluation**  
+  - Metrics: **Accuracy**, **Precision**, **Recall**, **F1 Score**, and **Confusion Matrix**.
+
+---
+
+## 💡 Benefits
+
+- Accurate AQI predictions for urban environments.  
+- Helps authorities and communities take preventive action.  
+- Provides insight into air quality trends over time.
+
+
+## ⚙️ Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Shivateja063/AQI-Prediction.git
+
+# Navigate to the project folder
+cd AQI-Prediction
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+---
+
+## 📝 Usage
+
+1. Load the AQI dataset for your target city.  
+2. Preprocess the data using provided scripts.  
+3. Train the predictive model.  
+4. Evaluate performance and generate AQI predictions.  
+
+---
+
+## 🤝 Contributing
+
+Contributions are **welcome**! Please follow these steps:  
+
+1. Fork the repository.  
+2. Create a new branch: `git checkout -b feature-name`.  
+3. Make your changes and commit: `git commit -m 'Add feature'`.  
+4. Push to your branch: `git push origin feature-name`.  
+5. Submit a Pull Request.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🔗 Repository
+
+[Air Quality Index Analysis on GitHub](https://github.com/Shivateja063/AQI-Prediction)  
+
 
 ## Project Structure 📁
 
