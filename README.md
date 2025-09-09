@@ -1,9 +1,5 @@
 ## Air Quality Index (AQI) Prediction Using Machine Learning
 
-![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributions%20Welcome-brightgreen)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green)
-
 ## Project Overview 🌍
 
 Delhi’s severe air pollution, particularly in winter, necessitates accurate Air Quality Index (AQI) predictions. AQI ranges from 0 to 500, with higher values indicating greater health risks. This project uses machine learning to predict AQI levels, offering timely alerts and preventative actions.
